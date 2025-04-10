@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deeksha Shrivastava</h1>
 <h3 align="center">Hello! I am Deeksha Shrivastava, I am passionate Computer Application Engineer with special interest in IT industry as software developer, java developer, Automation Engineer, Cloud Engineer and core language programmer.</h3>
 
-- 🔭 I’m currently working on **Java Developer.**
+- 🔭 I’m currently working on **Front-End Developer.**
 
-- 🌱 I’m currently learning **Full Stack Java Development Program.**
+- 🌱 I’m currently learning **React development.**
 
 - 👯 I’m looking to collaborate on **Software Development Program**
 
